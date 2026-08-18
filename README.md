@@ -150,6 +150,7 @@ plt.axis('off')
 ###  Roberts Edge Detector
 - Detects edges using diagonal gradients  
 - Sensitive to noise
+
 ![alt text](<Screenshot 2026-08-18 104657-1.png>)
 
 ###  Laplacian Edge Detector
